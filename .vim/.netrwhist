@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/chihmin/.vim/bundle/taglist.vim'
+let g:netrw_dirhist_2='/Users/chihmin/programming15spring'
+let g:netrw_dirhist_3='/Users/chihmin/test'
+let g:netrw_dirhist_4='/Users/chihmin/Desktop/Computer_Architecture/project02/simulator/dot/svg'
+let g:netrw_dirhist_5='/Users/chihmin/.vim'
+let g:netrw_dirhist_6='/Library/TeX/Distributions/.FactoryDefaults/TeXLive-2015/Contents/Doc/texmf-dist-doc'
+let g:netrw_dirhist_7='/Users/chihmin'
+let g:netrw_dirhist_8='/Users/chihmin/.vim/bundle/vundle'
