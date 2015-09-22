@@ -72,7 +72,7 @@ augroup filetype_settings
 	autocmd FileType eruby setlocal shiftwidth=2 softtabstop=2 
 	autocmd FileType make setlocal noexpandtab shiftwidth=8 softtabstop=0 
 	autocmd FileType gitcommit setlocal spell textwidth=72
-    autocmd FileType latex setlocal shiftwidth=2 softtabstop=2    
+    autocmd FileType tex setlocal shiftwidth=2 softtabstop=2    
 augroup END
 
 augroup filetype_settings
