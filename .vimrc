@@ -53,6 +53,7 @@ set cursorline   " 顯示目前的游標位置
 set laststatus=2
 set statusline=%4*%<\%m%<[%f\%r%h%w]\ [%{&ff},%{&fileencoding},%Y]%=\[Position=%l,%v,%p%%]
 set filetype=on
+set t_Co=256
 
 let g:tex_flavor = 'latex'
 
